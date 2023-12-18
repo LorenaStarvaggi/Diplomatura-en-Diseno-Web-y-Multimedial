@@ -1,7 +1,7 @@
-## TITULO
+## Diplomatura en Diseño Web y Multimedial
 
-### SUB TITULO
+### Trabajos prácticos y ejercitaciones
 '''
-Una descripcion
+
 '''
 
