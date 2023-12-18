@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FORMULARIO</title>
+  <link href="style.css" type="text/css" rel="stylesheet" />
+
+</head>
+<body>
+<div class="container">
+  <form>
+    <h1>Crear cuenta</h1>
+    <h5>Ya eres un usuario registrado? <a href="">Ingresa aquí</a> </h5>
+    <label>Tu nombre</label>
+    <input type="text" placeholder="Ingrese su nombre" name="nombre">
+    <div class="mensaje_error">Falta agregar nombre</div>
+
+    <label>Correo electrónico</label>
+    <input type="email" placeholder="Ingrese su correo electronico" name="mail">
+    <div class="mensaje_error">Falta agregar mail</div>
+
+    <label>Contraseña</label>
+    <input type="password" placeholder="Debe tener al menos 6 caracteres" name="password" minlength="6">
+    <div class="mensaje_error">No ingreso contraseña</div>
+
+    <label>Vuelve a escribir la contraseña</label>
+    <input type="password" placeholder="La contraseña debe coincidir" name="password">
+    <div class="mensaje_error">No ingreso contraseña</div> 
+    
+    <div style="margin-top:20px">
+      <input type="checkbox" id="acepta" value="si"> 
+      <label for="acepta">Al crear esta cuenta acepta <a href="#">términos y condiciones</a></label>
+    </div>
+    
+    <button>CREAR CUENTA</button>
+   </form>
+  </div>
+</body>
+</html>

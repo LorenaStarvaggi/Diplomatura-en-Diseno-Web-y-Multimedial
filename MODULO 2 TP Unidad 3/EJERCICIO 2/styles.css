@@ -1,0 +1,41 @@
+  
+
+
+.barracontenedora{
+  background-color: aquamarine;
+  width: 500px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 3px; 
+  margin: 3px; 
+}
+.barraprogreso10{
+  background-color: rgb(255, 127, 180);
+  width: 10%;
+  height: 30px;
+  border-radius: 100px
+}
+.barraprogreso25{
+  background-color: rgb(255, 127, 180);
+  width: 25%;
+  height: 30px;
+  border-radius: 100px
+}
+.barraprogreso50{
+  background-color: rgb(255, 127, 180);
+  width: 50%;
+  height: 30px;
+  border-radius: 100px
+}
+.barraprogreso75{
+  background-color: rgb(255, 127, 180);
+  width: 75%;
+  height: 30px;
+  border-radius: 100px
+}
+.barraprogreso90{
+  background-color: rgb(255, 127, 180);
+  width: 90%;
+  height: 30px;
+  border-radius: 100px
+}

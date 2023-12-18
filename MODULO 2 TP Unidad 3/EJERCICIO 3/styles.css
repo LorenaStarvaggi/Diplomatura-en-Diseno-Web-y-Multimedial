@@ -1,0 +1,27 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+
+
+
+.contenedor{
+width: 60%;
+border: 3px solid black;
+padding: 5px 70px 30px 70px ;
+margin: auto;
+position: relative;
+}
+h1, h2, h3, ul{
+font-family: 'Noto Sans JP', sans-serif;
+}
+p{
+font-style: italic;  
+}
+img{
+width: 100%;
+}
+h2, h3{
+font-weight: bold;  
+}
+ul{
+font-size: small;
+}

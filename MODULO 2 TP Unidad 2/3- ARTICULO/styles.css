@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Barlow:wght@100 & familia= Playfair+Exhibición &family= Roboto:wght@100;300 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Barlow:wght@100 & family= Italianno & family= Playfair+Display & display=swap');
+
+
+
+h1 {font-size: 100px;
+font-family: 'Playfair Display', serif;
+font-weight: 900;}
+a {color:cyan;
+text-decoration: none;}
+p {font-size: 20px;
+  font-family:  'Roboto', sans-serif}
+
+
+
+  

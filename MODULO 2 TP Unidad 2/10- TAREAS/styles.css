@@ -1,0 +1,18 @@
+
+
+@import url('https://fonts.googleapis.com/css2? family= Patrick+Hand & display=swap');
+
+
+*  {font-family: 'Patrick Hand', cursive}
+
+h1 {font-size: 40px}
+h2 {font-size: 30px}
+h3 {font-size: 20px}
+
+.pendiente {color:rgb(38, 0, 255)}
+.haciendo {color:rgb(255, 208, 0)}
+.hecha {color:rgb(102, 255, 0)}
+.cancelado {color:rgb(255, 0, 0)}
+
+
+
